@@ -1,0 +1,9 @@
+﻿  po.cpp
+D:\Users\22vvv1\laba1\po.cpp(146,17): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+D:\Users\22vvv1\laba1\po.cpp(146,17): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+D:\Users\22vvv1\laba1\po.cpp(146,17): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+D:\Users\22vvv1\laba1\po.cpp(146,17): message : этот аргумент используется в качестве размера буфера
+D:\Users\22vvv1\laba1\po.cpp(271,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Users\22vvv1\laba1\po.cpp(275,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+po.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  laba1.vcxproj -> D:\Users\22vvv1\laba1\Debug\laba1.exe
