@@ -1,0 +1,98 @@
+﻿Построение начато 06.12.2023 17:16:38.
+     1>Проект "D:\users\22VVV1\lab6\6\6\6.vcxproj" в узле 2 (целевые объекты rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\6.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "Debug\6.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp Zad2cpp.cpp Zad34.cpp
+         Zad34.cpp
+         Zad2cpp.cpp
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(25): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(36): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(36): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(36): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(40): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(40): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(44): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(44): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(44): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(48): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(48): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(52): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(52): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(52): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(56): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(56): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(27): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(230): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(219): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(230): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(219): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(230): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(219): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(232): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(219): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(238): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(219): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(238): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(219): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(238): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(219): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+     1>d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(240): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\users\22vvv1\lab6\6\6\zad2cpp.cpp(219): пропуск определения "i"
+                 d:\users\22vvv1\lab6\6\6\header.h(14): используется определение "i"
+         Main.cpp
+     1>d:\users\22vvv1\lab6\6\6\main.cpp(149): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\users\22VVV1\lab6\6\Debug\6.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\6.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\users\22VVV1\lab6\6\Debug\6.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\users\22VVV1\lab6\6\Debug\6.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\Zad2cpp.obj
+         Debug\Zad34.obj
+         6.vcxproj -> D:\users\22VVV1\lab6\6\Debug\6.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\users\22VVV1\lab6\6\Debug\6.exe;#1" /manifest Debug\6.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\6.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\6.lastbuildstate".
+     1>Построение проекта "D:\users\22VVV1\lab6\6\6\6.vcxproj" завершено (целевые объекты rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.63
